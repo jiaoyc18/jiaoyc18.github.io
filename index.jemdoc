@@ -1,21 +1,16 @@
 # jemdoc: menu{menu}{default.html}
-= Gen Li
+= Yuchen Jiao
 
 ~~~
-{}{img_left}{photo-gen.jpg}{alt text}{}{240}
-I am an Assistant Professor in the Department of Statistics at the Chinese University of Hong Kong.
+{}{img_left}{yjiao.png}{alt text}{}{240}
+I am an Research Associate in the Department of Statistics and Data Science at the Chinese University of Hong Kong, advised by Professor Gen Li.\n
 
-Previously, I was a postdoctoral researcher in the [https://statistics.wharton.upenn.edu Department of Statistics and Data Science] at the Wharton School at University of Pennsylvania, co-advised by Professor [https://yuxinchen2020.github.io Yuxin Chen] and Professor [https://yutingwei.github.io Yuting Wei]. I received my Ph.D. in the Department of Electronic Engineering at Tsinghua University, advised by Professor [http://gu.ee.tsinghua.edu.cn/ Yuantao Gu]. Before my Ph.D., I received my bachelor's degree from the Department of Electronic Engineering and Department of Mathematics at Tsinghua University in 2016. \n
+Previously, I received my Ph.D. in the Department of Electronic Engineering at Tsinghua University, advised by Professor Yuantao Gu. Before my Ph.D., I received my bachelor's degree from the Department of Electronic Engineering at Tsinghua University in 2014. \n
 \n
-I am interested in diffusion based generative model, reinforcement learning, high-dimensional statistics, machine learning, signal processing, and mathematical optimization. \n
+I am interested in diffusion based generative models, reinforcement learning, transformers, and signal processing. \n
 \n
-E-mail: /genli/ \[AT\] cuhk \[DOT\] edu \[DOT\] hk
+E-mail: /yuchenjiao/ \[AT\] cuhk \[DOT\] edu \[DOT\] hk
 \n
-[https://scholar.google.com/citations?view_op=list_works&hl=en&user=JS-_0nUAAAAJ Google Scholar]
+[https://scholar.google.com/citations?hl=zh-CN&user=Qgg4NucAAAAJ Google Scholar]
 ~~~
 
-
-== Recent Papers
-[https://scholar.google.com/citations?view_op=list_works&hl=en&user=JS-_0nUAAAAJ Google Scholar] \n
-
-[Diffusion_LM_slides.pdf Slides]
