@@ -16,3 +16,74 @@ E-mail: /yuchenjiao/ \[AT\] cuhk \[DOT\] edu \[DOT\] hk
 [https://github.com/jiaoyc18/jiaoyc18.github.io/raw/main/CV_YuchenJiao.pdf CV]
 ~~~
 
+\n
+== Recent Papers
+
+*(\*=equal contribution)*
+
+- [https://arxiv.org/abs/2410.13738v2 Instance-dependent Convergence Theory for Diffusion Models] \n
+*Y. Jiao*, G. Li  \n
+/minor revision at the Journal of the Association for Computing Machinery (JACM) 2026/
+
+- [https://arxiv.org/abs/2506.05200 Transformers Meet In-Context Learning: A Universal Approximation Theory] \n
+G. Li\*, *Y. Jiao*\*, Y. Huang, Y. Wei, Y. Chen \n
+/major revision at the Annals of Statistics *(AoS Invited Paper Session)* 2026/
+
+- [https://arxiv.org/abs/2512.04985 Towards a Unified Framework for Guided Diffusion Models] \n
+*Y. Jiao*, Y. Chen, G. Li \n
+/reject and resubmit at the Journal of the American Statistical Association (JASA) 2026/
+
+- Provably Efficient Q-learning for Robust Reinforcement Learning \n
+*Y. Jiao*, G. Li \n
+/minor revision at the Journal of Machine Learning Research (JMLR) 2026/
+
+- [https://arxiv.org/abs/2510.27562 Optimal Convergence Analysis of DDPM for General Distributions] \n
+*Y. Jiao*, Y. Zhou, G. Li \n
+/submitted to Conference on Neural Information Processing Systems (NeurIPS), average score 5.0. 2026/
+
+- [https://arxiv.org/abs/2512.24927 Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach] \n
+*Y. Jiao*\*, N. Li\*, C. Cai, G. Li  \n 
+/International Conference on Machine Learning (ICML) 2026/
+
+
+- [https://arxiv.org/abs/arXiv:2608.23551 ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings] \n
+N. Li\*, *Y. Jiao*\*, C. Cai, G. Li
+
+- [https://arxiv.org/abs/arXiv:2607.19333 Provable Diffusion-based Posterior Sampling for Linear Inverse Problems via DDIM] \n
+*Y. Jiao*\*, N. Li\*, C. Cai, Y. Chen, G. Li
+
+- [https://arxiv.org/abs/arXiv:2606.23627 Diffusion Models Adapt to Low-dimensional Structure under Flexible Coefficient Choices]\n
+C. Cai\*, *Y. Jiao*\*, G. Li
+
+
+- [https://arxiv.org/abs/arXiv:2601.13642 Sample Complexity of Average-Reward Q-Learning: From Single-Agent to Federated Reinforcement Learning] \n
+*Y. Jiao*\*, J. Woo\*, G. Li, G. Joshi, Y. Chi \n
+/submitted to Journal of Machine Learning Research (JMLR) 2026/
+
+- [https://arxiv.org/abs/2505.01382 Provable Efficiency of Guidance in Diffusion Models for General Data Distribution] \n
+G. Li\*, *Y. Jiao*\* \n
+/International Conference on Machine Learning (ICML) 2025/
+
+- [https://arxiv.org/abs/2410.13738v1 Improved Convergence Rate for Diffusion Probabilistic Models] \n
+G. Li\*, and *Y. Jiao*\* \n
+/International Conference on Learning Representations (ICLR) 2025/
+
+- [https://arxiv.org/html/2509.04372v1 Connections between Reinforcement Learning with Feedback, Test-time Scaling, and Diffusion Guidance: An Anthology] \n
+*Y. Jiao*, Y. Chen, G. Li, \n
+/submitted to IEEE Transactions on Information Theory (IEEE TIT) 2025/
+
+
+- [https://arxiv.org/abs/2512.00351 Provable Memory Efficient Self-Play Algorithm for Model-free Reinforcement Learning] \n
+N. Li, *Y. Jiao*(correpsonding), H. Shan, S. Yan \n
+/International Conference on Learning Representations (ICLR) 2024/
+
+- [https://arxiv.org/abs/arXiv:2412.19873 Minimax-Optimal Multi-Agent Robust Reinforcement Learning] \n
+*Y. Jiao*, G. Li
+
+- [https://ieeexplore.ieee.org/document/10705422 Decentralized Rank-Adaptive Matrix Factorization -- Part I: Algorithm Development]\n
+*Y. Jiao*, Y. Gu, T-H. Chang, Z-Q Luo\n
+/IEEE Transactions on Signal Processing (IEEE TSP), 2024/
+
+- [https://ieeexplore.ieee.org/document/10685091 Decentralized Rank-Adaptive Matrix Factorization -- Part II: Convergence Analysis]\n
+*Y. Jiao*, Y. Gu, T-H. Chang, Z-Q Luo\n
+/IEEE Transactions on Signal Processing (IEEE TSP), 2024/
