@@ -33,9 +33,17 @@ G. Li\*, *Y. Jiao*\*, Y. Huang, Y. Wei, Y. Chen \n
 *Y. Jiao*, Y. Chen, G. Li \n
 /reject and resubmit at the Journal of the American Statistical Association (JASA) 2026/
 
+- [https://arxiv.org/abs/arXiv:2601.13642 Sample Complexity of Average-Reward Q-Learning: From Single-Agent to Federated Reinforcement Learning] \n
+*Y. Jiao*\*, J. Woo\*, G. Li, G. Joshi, Y. Chi \n
+/accepted by the Journal of Machine Learning Research (JMLR) 2026/
+
 - [https://arxiv.org/abs/2610.35656 Provably Efficient Q-learning for Robust Reinforcement Learning] \n
 *Y. Jiao*, G. Li \n
 /minor revision at the Journal of Machine Learning Research (JMLR) 2026/
+
+- [https://arxiv.org/html/2509.04372v1 Connections between Reinforcement Learning with Feedback, Test-time Scaling, and Diffusion Guidance: An Anthology] \n
+*Y. Jiao*, Y. Chen, G. Li \n
+/reject and resubmit at the IEEE Transactions on Information Theory (IEEE TIT) 2026/
 
 - [https://arxiv.org/abs/2510.27562 Optimal Convergence Analysis of DDPM for General Distributions] \n
 *Y. Jiao*, Y. Zhou, G. Li \n
@@ -56,10 +64,6 @@ N. Li\*, *Y. Jiao*\*, C. Cai, G. Li
 C. Cai\*, *Y. Jiao*\*, G. Li
 
 
-- [https://arxiv.org/abs/arXiv:2601.13642 Sample Complexity of Average-Reward Q-Learning: From Single-Agent to Federated Reinforcement Learning] \n
-*Y. Jiao*\*, J. Woo\*, G. Li, G. Joshi, Y. Chi \n
-/submitted to Journal of Machine Learning Research (JMLR) 2026/
-
 - [https://arxiv.org/abs/2505.01382 Provable Efficiency of Guidance in Diffusion Models for General Data Distribution] \n
 G. Li\*, *Y. Jiao*\* \n
 /International Conference on Machine Learning (ICML) 2025/
@@ -67,9 +71,6 @@ G. Li\*, *Y. Jiao*\* \n
 - [https://arxiv.org/abs/2410.13738v1 Improved Convergence Rate for Diffusion Probabilistic Models] \n
 G. Li\*, and *Y. Jiao*\* \n
 /International Conference on Learning Representations (ICLR) 2025/
-
-- [https://arxiv.org/html/2509.04372v1 Connections between Reinforcement Learning with Feedback, Test-time Scaling, and Diffusion Guidance: An Anthology] \n
-*Y. Jiao*, Y. Chen, G. Li
 
 
 - [https://arxiv.org/abs/2512.00351 Provable Memory Efficient Self-Play Algorithm for Model-free Reinforcement Learning] \n
